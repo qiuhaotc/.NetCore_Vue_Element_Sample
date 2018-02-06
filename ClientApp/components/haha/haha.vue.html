@@ -1,0 +1,39 @@
+<template>
+    <div>
+        <h1>HaHa</h1>
+        <li v-for="todo in todos">
+            {{ todo }}
+        </li>
+        <div class="block">
+            <span class="demonstration">默认不区分颜色 {{ value1 }}</span>
+            <el-rate v-model="value1"></el-rate>
+        </div>
+        <div class="block">
+            <span class="demonstration">区分颜色 {{ value2 }}</span>
+            <el-rate v-model="value2" :colors="['#99A9BF', '#F7BA2A', '#FF9900']">
+            </el-rate>
+        </div>
+        <el-table :data="tableData3" height="250" border style="width: 100%">
+            <el-table-column prop="date" label="日期" width="180">
+            </el-table-column>
+            <el-table-column prop="name" label="姓名" width="180">
+            </el-table-column>
+            <el-table-column prop="address" label="地址">
+            </el-table-column>
+        </el-table>
+        <div class="block">
+            <span class="demonstration">完整功能</span>
+            <el-pagination
+              @size-change="handleSizeChange"
+              @current-change="handleCurrentChange"
+              :current-page="currentPage"
+              :page-sizes="[100, 200, 300, 400]"
+              :page-size="100"
+              layout="total, sizes, prev, pager, next, jumper"
+              :total="400">
+            </el-pagination>
+          </div>
+    </div>
+</template>
+
+<script src="./haha.ts"></script>
