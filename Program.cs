@@ -20,7 +20,7 @@ namespace MyApp_Vue
 		public static IWebHost BuildWebHost(string[] args) =>
 			WebHost.CreateDefaultBuilder(args)
 				.UseStartup<Startup>()
-				.UseUrls("http://*:5001")
+				.UseUrls("http://localhost:5001")
 				.Build();
 	}
 }
