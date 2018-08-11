@@ -1,0 +1,9 @@
+D:\Code\.NetCore_Vue_Element_Sample\Model\bin\Debug\netcoreapp2.0\Model.deps.json
+D:\Code\.NetCore_Vue_Element_Sample\Model\bin\Debug\netcoreapp2.0\Model.dll
+D:\Code\.NetCore_Vue_Element_Sample\Model\bin\Debug\netcoreapp2.0\Model.pdb
+D:\Code\.NetCore_Vue_Element_Sample\Model\obj\Debug\netcoreapp2.0\Model.csprojAssemblyReference.cache
+D:\Code\.NetCore_Vue_Element_Sample\Model\obj\Debug\netcoreapp2.0\Model.csproj.CoreCompileInputs.cache
+D:\Code\.NetCore_Vue_Element_Sample\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfoInputs.cache
+D:\Code\.NetCore_Vue_Element_Sample\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
+D:\Code\.NetCore_Vue_Element_Sample\Model\obj\Debug\netcoreapp2.0\Model.dll
+D:\Code\.NetCore_Vue_Element_Sample\Model\obj\Debug\netcoreapp2.0\Model.pdb

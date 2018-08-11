@@ -1,0 +1,17 @@
+D:\Code\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+D:\Code\Data\bin\Debug\netcoreapp2.0\Data.dll
+D:\Code\Data\bin\Debug\netcoreapp2.0\Data.pdb
+D:\Code\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+D:\Code\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+D:\Code\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+D:\Code\Data\obj\Debug\netcoreapp2.0\Data.dll
+D:\Code\Data\obj\Debug\netcoreapp2.0\Data.pdb
+D:\Code\.NetCore_Vue_Element_Sample\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+D:\Code\.NetCore_Vue_Element_Sample\Data\bin\Debug\netcoreapp2.0\Data.dll
+D:\Code\.NetCore_Vue_Element_Sample\Data\bin\Debug\netcoreapp2.0\Data.pdb
+D:\Code\.NetCore_Vue_Element_Sample\Data\obj\Debug\netcoreapp2.0\Data.csprojAssemblyReference.cache
+D:\Code\.NetCore_Vue_Element_Sample\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+D:\Code\.NetCore_Vue_Element_Sample\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+D:\Code\.NetCore_Vue_Element_Sample\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+D:\Code\.NetCore_Vue_Element_Sample\Data\obj\Debug\netcoreapp2.0\Data.dll
+D:\Code\.NetCore_Vue_Element_Sample\Data\obj\Debug\netcoreapp2.0\Data.pdb
